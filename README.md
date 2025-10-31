@@ -1,6 +1,6 @@
 # 💳 Projeto de Análise de Crédito — AWS & Python
 
-###📋 Descrição do Projeto
+### 📋 Descrição do Projeto
 
 Este projeto foi desenvolvido com o objetivo de analisar dados de crédito utilizando Python e serviços da AWS, com foco em boas práticas de engenharia de dados, otimização de custos e avaliação de viés nos dados.
 
@@ -9,7 +9,7 @@ No entanto, durante a exploração, foi identificado que o conjunto reduzido apr
 
 Diante disso, optou-se por utilizar o conjunto de dados completo, executando a análise fora do ambiente da AWS, diretamente em Python, como forma de preservar a integridade dos resultados sem elevar significativamente os custos de infraestrutura em nuvem.
 
-###🎯 Objetivos
+### 🎯 Objetivos
 
 - Analisar dados de crédito com foco em padrões, riscos e possíveis vieses.
 
@@ -19,7 +19,7 @@ Diante disso, optou-se por utilizar o conjunto de dados completo, executando a a
 
 - Demonstrar flexibilidade na integração entre nuvem e ambiente local.
 
-###⚙️ Tecnologias Utilizadas
+### ⚙️ Tecnologias Utilizadas
 
 - Python 3.10+ – processamento, análise e visualização
 
@@ -31,7 +31,7 @@ Diante disso, optou-se por utilizar o conjunto de dados completo, executando a a
 
 - AWS Glue – gerenciamento e catálogo de metadados
 
-###🧠 Aprendizados Técnicos
+### 🧠 Aprendizados Técnicos
 
 - Identificação e mitigação de viés em dados amostrais.
 
