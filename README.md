@@ -29,8 +29,8 @@ Diante disso, optou-se por utilizar o conjunto de dados completo, executando a a
 
 - Amazon Athena – consultas SQL sobre dados armazenados no S3
 
-- AWS Glue – gerenciamento e catálogo de metadados
-
+- Google Colab – ambiente de desenvolvimento e execução
+  
 ### 🧠 Aprendizados Técnicos
 
 - Identificação e mitigação de viés em dados amostrais.
